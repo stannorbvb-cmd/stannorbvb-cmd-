@@ -11,7 +11,7 @@
   ░                ░                                            
 ```
 
-<div align="right">
+<div align="center">
   <sub>theme designer · linux ricing · omarchy</sub>
 </div>
 
