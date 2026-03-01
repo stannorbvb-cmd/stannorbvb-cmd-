@@ -85,15 +85,15 @@ Each theme is a deliberate aesthetic system — palette, contrast ratios, and sy
   <tr>
     <td width="33%">
       <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
-      <p>Music label identity and digital presence.</p>
+      <p>Record Store.</p>
     </td>
     <td width="33%">
       <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
-      <p>Brand web experience, built to stand out.</p>
+      <p>JamPad.</p>
     </td>
     <td width="33%">
       <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
-      <p>Hospitality and luxury hotel showcase.</p>
+      <p>Luxury hotel showcase.</p>
     </td>
   </tr>
   <tr>
