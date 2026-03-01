@@ -56,15 +56,17 @@ My work lives in the [Omarchy](https://omarchy.org) ecosystem: an opinionated Ar
 
 ## Stack
 
-```
-OS        Arch Linux
-WM        Hyprland
-Shell     Zsh
-Editor    Neovim
-Bar       Waybar
-Base      Omarchy
-Language  CSS
-```
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Waybar](https://img.shields.io/badge/Waybar-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
