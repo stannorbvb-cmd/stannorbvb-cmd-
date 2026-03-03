@@ -106,7 +106,7 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   <tr>
     <td width="33%">
       <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
-      <img src="https://github.com/user-attachments/assets/2bc47391-ccc3-4300-a2c5-23d452364a9c" width="100%"/>
+      <img width="476" height="320" alt="screenshot-2026-03-03_16-07-44" src="https://github.com/user-attachments/assets/b1e9caca-0261-4bb6-808e-9b4698da1d94" />
       <p>Tourism platform for the Himalayan frontier.</p>
     </td>
     <td width="33%">
