@@ -89,29 +89,29 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   <tr>
     <td width="33%">
       <h3>⬡ <a href="https://rolangsrecords.com">Rolangs Records</a></h3>
-      <img src="https://github.com/user-attachments/assets/7def98cc-3817-4382-b0bd-68ff2d2b5f01" width="100%"/>
+      <img width="500" height="500" alt="3" src="https://github.com/user-attachments/assets/c0774b30-38b4-4a93-bd3d-80ed45bc5254" />
       <p>Record Store.</p>
     </td>
     <td width="33%">
       <h3>◈ <a href="https://bigfuz.com">Big Fuz</a></h3>
-      <img src="https://github.com/user-attachments/assets/b647c0c1-3b04-4455-9efe-d2cf8f71875e" width="100%"/>
+      <img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/f169392a-c52b-40db-b613-d61da5e5770a" />
       <p>JamPad.</p>
     </td>
     <td width="33%">
       <h3>⬢ <a href="https://hotelkesaarpalace.com">Kesaar Palace</a></h3>
-      <img src="https://github.com/user-attachments/assets/84fa0e70-162e-429b-bb47-9aa2f3071cce" width="100%"/>
+      <img width="500" height="500" alt="5" src="https://github.com/user-attachments/assets/d9be721e-20e0-4efe-9c3d-d8d70c771b61" />
       <p>Luxury hotel showcase.</p>
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h3>◉ <a href="https://destinationladakh.in/">Destination Ladakh Tourism.Co</a></h3>
-      <img width="476" height="320" alt="screenshot-2026-03-03_16-07-44" src="https://github.com/user-attachments/assets/b1e9caca-0261-4bb6-808e-9b4698da1d94" />
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/e7d6df4a-2762-430a-a506-00490f0ccea2" />
       <p>Tourism platform for the Himalayan frontier.</p>
     </td>
     <td width="33%">
       <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
-      <img src="https://github.com/user-attachments/assets/d8a383e8-005d-4fb7-99e5-581c5f59b38d" width="100%"/>
+      <img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" />
       <p>Adventure and travel hub for Ladakh explorers.</p>
     </td>
     <td width="33%"></td>
