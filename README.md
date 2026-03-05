@@ -24,6 +24,7 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 ---
 
 ## Tech Stack
+
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -35,6 +36,7 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 ![Kitty](https://img.shields.io/badge/Kitty-1a1a1a?style=for-the-badge&logo=kitty&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/ThinkPad-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
