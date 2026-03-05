@@ -82,7 +82,6 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
 </table>
 
 ---
-
 ## Web Design
 
 <table>
@@ -112,10 +111,14 @@ Each theme is a deliberate aesthetic system palette, contrast ratios, and syntax
   </tr>
   <tr>
     <td width="50%">
+      <h3>◬ <a href="https://thevintagevillas.com">The Vintage Villas</a></h3>
+      <img width="2000" height="2000" alt="1" src="https://github.com/user-attachments/assets/e640bbc3-12c1-4588-8efe-88494a8f1591" />
+      <p>Boutique villa experience.</p>
+    </td>
+    <td width="50%">
       <h3>⬟ <a href="https://ladakhhimalayanhub.com">Ladakh Himalayan Hub</a></h3>
       <img src="https://github.com/user-attachments/assets/62cb3651-7a95-477f-bc2b-5f232b7812b0" width="100%"/>
       <p>Adventure and travel hub for Ladakh explorers.</p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
